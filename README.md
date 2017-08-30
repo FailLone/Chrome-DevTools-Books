@@ -1,3 +1,8 @@
-# My Awesome Book
+# 写在前面
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+ _处于幼年的人类文明曾经打开家门向外看了一眼，外面无边的暗夜吓住了他，他面对黑暗中的广袤和深邃打了个寒战，紧紧地关上了门 —— 《三体》_
+
+在前端的世界里每走出一步，就会更清晰地看到自己的无知。希望自己不会被这个广袤的世界吓住，一点一点地去接近它，哪怕每天前进一点点都好。
+
+既然这么决定了，那就先从Chrome DevTools开始。
+
