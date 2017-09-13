@@ -1,12 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* [Elements](chapter1.md)
+* [Elements](elements.md)
 * Console
 * [Audits](audits.md)
 * [Sources](sources.md)
 * Network
-* Performance
+* [Performance](performance.md)
 * Memory
 * Application
 * Security
